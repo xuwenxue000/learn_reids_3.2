@@ -1,3 +1,21 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea
 *.iml
+*.o
+/src/.make-prerequisites
+/src/.make-settings
+/src/redis-benchmark
+/src/redis-check-aof
+/src/redis-check-rdb
+/src/redis-cli
+/src/redis-sentinel
+/src/redis-server
+/src/release.h
+
+/deps/.make-prerequisites
+/deps/.make-cflags
+/deps/.make-ldflags
+/deps/lua/src/liblua.a
+/deps/lua/src/lua
+/deps/lua/src/luac
+
